@@ -1,1 +1,2 @@
 # Invisible-Cloak-Project
+I have created ‘Invisibility Cloak’ using simple computer vision techniques in OpenCV. Here I have written this code in Python because python provides exhaustive and sufficient library to build this program. Here, i have created this magical experience using an image processing technique called color detection and segmentation.  You must have a cloth of same color and no other color should be there. I am taking red cloth. If you are taking some other cloth , the code will remain the same but with minute changes. 
